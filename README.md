@@ -1,7 +1,18 @@
 ## 特别说明项目源 fork 项目是：
+
 https://github.com/type-challenges/type-challenges.git
 
+### 第一步加入项目中：
 
+git remote add upstream xxx
+
+### 第二步拉取远程 fork 最新内容
+
+git fetch upstream
+
+### 第三步合并必要内容
+
+git merge upstream/main
 
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
